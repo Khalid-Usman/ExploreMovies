@@ -1,0 +1,6 @@
+framework module Pods_ExploreMovies_ExploreMoviesUITests {
+  umbrella header "Pods-ExploreMovies-ExploreMoviesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
